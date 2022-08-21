@@ -5,7 +5,7 @@
 
 
 <bean id ="TennisBean" class="decodejava.Tennis">
-	<property name="message" value="Let's play Tennis!"></property>
+	<property name="message" value="Bom dia Elisa Euzebio Santiago da Fonseca!"></property>
 	<property name="sport" ref="OutdoorSportBean"></property>
 </bean>
 

@@ -9,7 +9,7 @@ public class Tennis
 
 	public void getMessage() 
 	{
-		System.out.println("Message is : " + message);
+		System.out.println("Mensagem do Dia É : " + message);
 		sport.info();
 	}
 
