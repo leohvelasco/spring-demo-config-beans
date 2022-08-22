@@ -5,7 +5,7 @@
 
 
 <bean id ="TennisBean" class="decodejava.Tennis">
-	<property name="message" value="!"></property>
+	<property name="message" value="This is the config beans message!"></property>
 	<property name="sport" ref="OutdoorSportBean"></property>
 </bean>
 

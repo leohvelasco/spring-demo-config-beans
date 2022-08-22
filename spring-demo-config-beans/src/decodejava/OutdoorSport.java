@@ -8,7 +8,7 @@ public class OutdoorSport
 	
 	public void info() 
 	{
-		System.out.println("Ela soltou pum");	
+		System.out.println("This is the OutdoorSport message.");	
 	}
 
 }
